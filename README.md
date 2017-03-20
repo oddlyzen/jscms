@@ -5,4 +5,4 @@
   - Uses `mongoid` instead
 
 -----------------------------
-&copy; 2017, FirstByte Technologies & Mark Coates
+&copy; 2017, [FirstByte Technologies](@firstbytech) & [Mark Coates](@oddlyzen)
