@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Redlands University
+  slug: redlands
+  contact_emails: ['boss@redlands.edu', 'admin@redlands.edu']
+  games: { '1' => "/assets/games/1.js" }
+  courses: { '09237' => "Intro to Redlands" }
+
+two:
+  name: Boston University
+  slug: bu
+  contact_emails: ['admin@bu.mass.edu']
+  games: { '1' => "/assets/games/1.js", '2' => "/assets/games/2.js" }
+  courses: { '32765' => 'Intro to BU' }
